@@ -13,9 +13,9 @@
   <name>test-maven</name>
   <url>http://maven.apache.org</url>
 
-      <goals>
-      <goal>test</goal>
-      </goals>
+  <goals>
+  <goal>test</goal>
+  </goals>
   
     
   <dependencies>
